@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-Thsi is Ayush Khandelwal
+This is Ayush Khandelwal
