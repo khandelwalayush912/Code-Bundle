@@ -1,0 +1,10 @@
+class GeeksforGeeks
+
+public static void main(String args[])
+{
+String gfg1 ="Welcome to GitHub";
+boolean gfg2;
+gfg2 =gfg1.startsWith("welcome");
+System.out.println(gfg2);
+}
+}
